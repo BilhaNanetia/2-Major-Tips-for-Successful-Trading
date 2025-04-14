@@ -1,4 +1,4 @@
-# Trading Strategies Explained — YouTube Video Project
+# 2 Major Tips for Successful Trading — YouTube Video Project
 
 This project showcases a video tutorial I created and edited, where I explain two essential strategies for better trading decisions using the **Deriv** platform.
 
